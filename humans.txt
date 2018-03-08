@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Lucas Toledo -- Senior Designer -- http://lucastoledo.co
+
+# THANKS
+
+    To the Yarn Factory team:
+	David Fragomeni
+	Scott Ferguson
+	Harriet Simonis
+	Catherine Tenardi
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
